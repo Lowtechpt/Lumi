@@ -1,0 +1,8 @@
+{
+  "name": "Lumi - Beleza & Bem Estar",
+  "description": "Landing page premium para o salão de beleza Lumi, focada em sofisticação e excelência profissional.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
+
